@@ -1,5 +1,5 @@
 - 👋 Hi, here is Yuchen
-- 👀 I’m interested in data analytics and business analytics fields.
+
 
 
 <!---
